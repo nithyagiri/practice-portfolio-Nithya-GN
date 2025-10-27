@@ -19,7 +19,7 @@ function App() {
   };
   return (
     <>
-      <div style={{ textAlign: "center", marginTop: "20px" }}>
+      <div style={{ textAlign: "center", marginTop: "20px", color: "ThreeDDarkShadow" }}>
         <form >
           <label>
             Name:
